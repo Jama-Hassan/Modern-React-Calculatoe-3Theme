@@ -1,4 +1,4 @@
-Modern react Calculator-3Theme
+Stylish Modern React Calculator-with 3 Theme
 
 ## Getting Started
 
